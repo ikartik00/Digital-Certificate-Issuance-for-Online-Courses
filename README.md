@@ -1,7 +1,7 @@
 # Digital Certificate Issuance for Online Courses
 
 ## Project Description
-A decentralized system for issuing, verifying, and revoking digital certificates for online courses. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validation.
+A decentralized system for issuing, verifying, and revoking digital certificates for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validation.
 
 ## Project Vision
 To provide a trustworthy and transparent method for online course providers to issue verifiable certificates, empowering students with proof of their accomplishments secured on blockchain.
