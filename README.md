@@ -7,7 +7,7 @@ A decentralized system for issuing, verifying, and revoking digital certificates
 To provide a trustworthy and transparent method for online course providers to issue verifiable certificates, empowering students with proof of their accomplishments secured on blockchain.
 
 ## Key Features
-- Issue certificates with course name, student name, and certificate hash
+- Issue certificate with course name, student name, and certificate hash
 - Verify certificate authenticity via unique certificate ID
 - Revoke certificates if necessary
 - Immutable and transparent certificate records on blockchain
