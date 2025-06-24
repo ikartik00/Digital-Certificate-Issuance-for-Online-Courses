@@ -15,7 +15,7 @@ To provide a trustworthy and transparent method for online course providers to i
 
 ## Future Scope
 - Integration with IPFS or decentralized storage for certificate documents
-- Adding metadata such as grades or completion dates
+- Adding metadata such as grades or completion date
 - User-friendly front-end for certificate issuance and verification
 - Support for batch issuance of certificates
 - Role-based access control for multiple issuers
