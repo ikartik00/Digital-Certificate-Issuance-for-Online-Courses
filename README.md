@@ -4,7 +4,7 @@
 A decentralized system for issuing, verifying, and revoking digital certificates  for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validation.
 
 ## Project Vision
-To provide a trustworthy and transparent method for online course providers to issue verifiable certificates, empowering students with proof of their accomplishments secured on blockchain.
+To provide a trustworthy and transparent method for online course providers to issue verifiable certificate, empowering students with proof of their accomplishments secured on blockchain.
 
 ## Key Features
 - Issue certificate with course name, student name, and certificate hash
