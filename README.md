@@ -14,7 +14,7 @@ To provide a trustworthy and transparent method for online course provider to is
 - Only contract owner (issuer) can manage certificates
 
 ## Future Scope
-- Integration with IPFS or decentralized storage for certificate documents
+- Integration with IPFS or decentralized storage for certificate document
 - Adding metadata such a grades or completion date
 - User-friendly front-end for certificate issuance and verification
 - Support for batch issuance of certificates
