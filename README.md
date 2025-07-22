@@ -18,7 +18,7 @@ To provide a trustworthy and transparent method for online course provider to is
 - Adding metadata such a grades or completion date
 - User-friendly front-end for certificate issuance and verification
 - Support for batch issuance of certificates
-- Role-based access control for multiple issuers
+- Role-based access control for multiple issuer
 
 ## Contract details
 0x2C9C3b3296BB5170b80374DC54d247892841Bb77![alt text](image.png)
