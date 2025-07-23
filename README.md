@@ -17,7 +17,7 @@ To provide a trustworthy and transparent method for online course provider to is
 - Integration with IPFS or decentralized storage for certificate document
 - Adding metadata such a grades or completion date
 - User-friendly front-end for certificate issuance and verification
-- Support for batch issuance of certificates
+- Support for batch issuance of certificate
 - Role-based access control for multiple issuer
 
 ## Contract details
