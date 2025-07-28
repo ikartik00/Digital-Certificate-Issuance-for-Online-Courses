@@ -9,7 +9,7 @@ To provide a trustworthy and transparent method for online course provider to is
 ## Key Features
 - Issue certificate with course name, student name, and certificate hash
 - Verify certificate authenticity via unique certificate ID.
-- Revoke certificates if necessary
+- Revoke certificate if necessary
 - Immutable and transparent certificaterecords on blockchain
 - Only contract owner (issuer) can manage certificates
 
