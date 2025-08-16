@@ -6,7 +6,7 @@ A certificatesstem for issuing, verifying, and revoking digital certificates  fo
 ## Project Vision
 To provide a trustworthy and transparent method for online course empowerinng to issue verifiable certificate, empowering student with proof of their accoplishment secured on blockchain.
 
-## Key Features
+## Key Feature
 - Issue certificate with course name, student name, and certificate hash
 - Verify certificate authenticity via unique certificate ID. 
 - Revoke certificate if necessary 
