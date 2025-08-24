@@ -1,4 +1,4 @@
-# Digital Certificate Issuance for Online Courses
+# Digital Certificate Issuance for Online Course
 
 ## Project Description
 A certificatesstem for issuing, verifying, and revoking digital certificates  for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validation
