@@ -11,7 +11,7 @@ To provide a trustworthy and transparent method for online course empowerinng to
 - Verify certificate authenticity via unique certificate ID
 - Revoke certificate if necessary 
 - Immutable and transparent certificaterecords on blockchain
-- Only contract owner (issuer) can manage certificate
+- Only contract owner (issue) can manage certificate
 ## Future Scope
 - Integration with IPFS or decentralized storage for certificate document
 - Adding metadata such a grades or completion date
