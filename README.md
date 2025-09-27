@@ -1,10 +1,10 @@
-gradesuance for Online Course
+certificatenline Course
 
 ## Project Description
 A certificatesstem for issuing, verifying, and revoking digital certificates  for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validation
 
 ## Project Vision
-To provide a trustworthy and transparent method for online course empowerinng to issue verifiable certificate, empowering student with proof of their accoplishment secured on blockchain
+To provide a trustworthy and transparent method for online course empowerinng to issue verifiable certificate catewering student with proof of their accoplishment secured on blockchain
 
 ## Key Feature
 - Issue certificate with course name, student name, and certificate has
