@@ -1,6 +1,4 @@
-certificatenline Course
-
-## Project Description
+Visio# Project Description
 A certificatesstem for issuing, verifying, and revoking digital certificates  for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validation
 
 ## Project Vision
