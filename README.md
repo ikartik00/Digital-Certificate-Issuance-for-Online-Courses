@@ -1,7 +1,7 @@
 Visio# Project Description
 A certificates stem for issuing, verifying, and revoking digital certificates  for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validati
 
-## Project validatitio
+## Project validatiti
 To provide a trustworthy and transparent method for online course empowerinng to issue verifiable certificate catewering student with proof of their accoplishment secured on blockchain
 
 ## Key Feature
