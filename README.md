@@ -5,7 +5,7 @@ A certificates stem for issuing, verifying, and revoking digital certificates  f
 To provide a trustworthy and transparent method for online course empowerinng to issue verifiable certificate catewering student with proof of their accoplishment secured on blockchain
 
 ## Key Feature
-- Issue certificate with course name, student name, and certificate has
+- Issue certificate with coursename, student name, and certificate has
 - Verify certificate authenticity via unique certificate ID
 - Revoke certificate if necessary 
 - Immutable and transparent certificaterecords on blockchain
