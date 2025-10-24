@@ -10,7 +10,7 @@ To provide a trustworthy and transparent method for online course empowerinng to
 - Revoke certificate if necessary 
 - Immutable and transparent certificaterecords on blockchain
 - Only contract owner (issue) can manage certificate
-## Future certificates certificate
+## Future certificates certificatess
 - Integration with IPFS or decentralized storage for certificate document
 - Adding metadata such a grade descompletion dates.
 - User-friendly front-end for cetificate issuance and verification
