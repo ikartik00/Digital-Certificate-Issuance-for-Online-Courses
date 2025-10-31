@@ -8,7 +8,7 @@ To provide a trustworthy and transparent method for online course empowerinng to
 - Issue certificate with coursename, student name, and certificate has
 - Verify certificate authenticity via unique certificate ID..
 - Revoke certificate if necessary 
-- Immutable and transparent certificaterecords on blockchain
+- Immutable and transparent certificaterecords on blockchain..
 - Only contract owner (issue) can manage certificate
 ## Future certificates certificatess
 - Integration with IPFS or decentralized storage for certificate document
