@@ -1,4 +1,4 @@
-Visio# Project Description
+Vision# Project Description
 A certificate stem for issuing, verifying, and revoking digital certificates  for online course. Certificates are represented by hashes stored on-chain, ensuring tamper-proof verification and easy validati
 
 ## Project validatit
